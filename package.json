@@ -9,10 +9,13 @@
   },
   "dependencies": {
     "@editorjs/editorjs": "^2.24.3",
+    "@editorjs/header": "^2.6.2",
+    "@editorjs/list": "^1.7.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@editorjs/link": "^2.4.1",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
